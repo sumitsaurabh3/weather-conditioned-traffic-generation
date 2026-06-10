@@ -41,7 +41,7 @@ Traffic Images
 - PyTorch
 - NumPy
 - OpenCV
-- Jupyter Notebook
+- Google-Colab
 
 ## Results
 
